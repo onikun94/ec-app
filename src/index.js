@@ -6,7 +6,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import { ConnectedRouter, connectRouter } from 'connected-react-router';
+import { ConnectedRouter } from 'connected-react-router';
 import * as History from 'history';
 
 const  history = History.createBrowserHistory();
